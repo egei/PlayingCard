@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Proximosoft</string>
+    <string name="hello_world">Card Deck Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="card_hint">No Cards drawn yet</string>
+    <string name="draw_card">Draw</string>
+    <string name="shuffle_deck">Shuffle</string>
+
+</resources>
